@@ -6,7 +6,7 @@
 Summary:	Basic mime-type handling types and functions
 Name:		ghc-%{pkgname}
 Version:	0.1.0.9
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/mime-types
